@@ -9,10 +9,10 @@
     - 0.npy
     - 1.npy
     - 2.npy
-    ...
-    train_list.txt
-    val_list.txt
-    test_list.txt
+    - ...
+    - train_list.txt
+    - val_list.txt
+    - test_list.txt
 
 - train
 ``` sh
